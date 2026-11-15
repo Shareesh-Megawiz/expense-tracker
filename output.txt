@@ -1,0 +1,4 @@
+1. undefined
+2. Reference error - ReferenceError: Cannot access 'b' before initialization
+3. 99 1 - \expense-tracker> node .\Warmup.js 99 1
+4. 3 - \expense-tracker> node .\Warmup.js 3

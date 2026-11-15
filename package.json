@@ -1,0 +1,24 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "A student keeps a text file of expenses, one per line, in the form category,amount. Write a Node.js script that loads this file and reports on it.",
+  "main": "analyser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shareesh-Megawiz/expense-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shareesh-Megawiz/expense-tracker/issues"
+  },
+  "homepage": "https://github.com/Shareesh-Megawiz/expense-tracker#readme",
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
+}
