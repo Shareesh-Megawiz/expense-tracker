@@ -18,4 +18,4 @@ The tracker remembers `spent` because of a concept called a closure. The returne
 
 ### 4. What does the ^ in front of the lodash version in package.json mean, and why is package-lock.json created?
 
-The `^` symbol means npm can install compatible newer minor and patch versions of lodash, while keeping the same major version. The `package-lock.json` file is created to record the exact dependency versions installed, so the project can be installed consistently on different systems.
+The `^` symbol means npm can install compatible newer minor and patch versions of lodash, while keeping the same major version. The `package-lock.json` file is created to record the exact dependency versions installed, so the project can be installed consistently on different systems. Shareesh
